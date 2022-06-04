@@ -2,7 +2,7 @@ import org.h2.jdbcx.JdbcDataSource;
 import java.sql.Connection;
 import java.sql.SQLException;
 
-public class AirStations {
+public class Main {
 
     public static void main(String[] args) throws SQLException {
         try {
